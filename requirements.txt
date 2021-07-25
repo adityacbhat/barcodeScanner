@@ -1,0 +1,4 @@
+Open cv2 3.4.2
+install pyzbar:
+	'pip install pyzbar'  
+	 if using conda--- 'conda install -c lightsource2-tag pyzbar'

@@ -1,0 +1,3 @@
+-Replace 'download.png' on line 4 with appropriate input image
+-Code is decoded using utf-8 
+-Output would be - Data followed by type of code(Barcode/QR code)
